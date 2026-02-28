@@ -26,10 +26,10 @@ Virtual Private Cloud (VPC) is a secure private network/infrastructure deployed 
 EC2 (Elastic Compute Cloud) allows you to rent an instance (Eg, server, storage) of your server on AWS. 
 If we configure a virtual server on AWS is called EC2 instances. 
 
-*Configuration of EC2 Instances*
-Step1: Click “Launch Instance”
-Step2: Choose Linux or Windows
-Step3: Select CPU & RAM
-Step4: Generate RSA key *(To access the instances via SSH)*
-Step5: Choose public IP *(If needed)*
-Step6: Create and Start 
+**Configuration of EC2 Instances**
+* Step1: Click “Launch Instance”
+* Step2: Choose Linux or Windows
+* Step3: Select CPU & RAM
+* Step4: Generate RSA key *(To access the instances via SSH)*
+* Step5: Choose public IP *(If needed)*
+* Step6: Create and Start 
