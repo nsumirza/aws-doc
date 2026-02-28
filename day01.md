@@ -22,8 +22,8 @@ Virtual Private Cloud (VPC) is a secure private network/infrastructure deployed 
 * NAT 
 
 
-## EC2 (Elastic Compute Cloud)
-EC2 allows you to rent an instance (Eg, server, storage) of your server on AWS. 
+## EC2 
+EC2 (Elastic Compute Cloud) allows you to rent an instance (Eg, server, storage) of your server on AWS. 
 If we configure a virtual server on AWS is called EC2 instances. 
 
 *Configuration of EC2 Instances*
